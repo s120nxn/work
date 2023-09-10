@@ -6,7 +6,7 @@ public class PasswordManager {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("请选择功能：");
+            System.out.println("请选择功能：");//挑选功能
             System.out.println("1. 加密");
             System.out.println("2. 解密");
             System.out.println("3. 退出");
