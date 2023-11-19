@@ -7,11 +7,11 @@ public class PasswordManager {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("请选择功能：");//测试1
+            System.out.println("请选择功能：");
             System.out.println("1. 加密");
             System.out.println("2. 解密");
-            System.out.println("3. 检查密码强度");//测试2-1,测试2-2
-            System.out.println("4. 生成随机密码");//测试3
+            System.out.println("3. 检查密码强度");
+            System.out.println("4. 生成随机密码");
 
             System.out.println("5. 退出");
 
