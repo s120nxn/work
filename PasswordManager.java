@@ -10,7 +10,7 @@ public class PasswordManager {
             System.out.println("请选择功能：");//测试1
             System.out.println("1. 加密");
             System.out.println("2. 解密");
-            System.out.println("3. 检查密码强度");//测试2
+            System.out.println("3. 检查密码强度");//测试2-2
             System.out.println("4. 生成随机密码");//测试3
 
             System.out.println("5. 退出");
