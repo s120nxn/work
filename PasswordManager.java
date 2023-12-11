@@ -3,7 +3,7 @@ package com.work;
 import java.security.SecureRandom;
 import java.util.Scanner;
 //第一次修改//3节点4-1推送最新代码文件到远程仓库让同学拉取到本地
-public class PasswordManager {  //冲突解决
+ class PasswordManager {  //冲突解决
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
